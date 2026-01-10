@@ -52,5 +52,5 @@ Other Skills:
 * Open-source projects related to TensorFlow, NLP, or Data Engineering
 
 📫 How to Reach Me
-* Email: anveshkasarla2003@gmail.com
+* Email: anveshkasarla1@gmail.com
 * LinkedIn: https://linkedin.com/in/anvesh-kasarla

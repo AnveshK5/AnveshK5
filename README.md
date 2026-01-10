@@ -21,7 +21,7 @@
 * Git, GitHub, and deploying ML models
 
 💻 Technical Skills
-Programming: Python, R, SQL, Java (basic), JavaScript (basic)
+Programming: Python, R, SQL, Java, JavaScript
 AI / ML Skills:
 * TensorFlow-based chatbot development
 * NLP, text preprocessing

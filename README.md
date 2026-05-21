@@ -1,5 +1,5 @@
 👋 Hi, I’m Anvesh Kasarla
-🚀 AI & Data Analytics Enthusiast | Machine Learning Learner | Software Engineer
+🚀 AI & Data Science Enthusiast | Machine Learning Learner | Software Engineer
 
 👀 Interests
 * Artificial Intelligence & Machine Learning
@@ -8,9 +8,10 @@
 * Big Data, Cloud Technologies (AWS, Snowflake)
 * Real-world AI Product Development
 * AI Entrepreneurship & Startup Innovation
+* Full Stack Application Development
 
-🌱 Currently Learning
-* Machine Learning algorithms (through class + code): Logistic Regression, Naïve Bayes, Decision Trees, CART, KNN, etc.
+🌱 Current Skills
+* Machine Learning algorithms: Logistic Regression, Naïve Bayes, Decision Trees, CART, KNN, etc.
 * Deep Learning & Neural Networks (TensorFlow, Keras)
 * Natural Language Processing and chatbot development
 * Data Visualization (Tableau, Power BI, Python)

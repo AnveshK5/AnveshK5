@@ -46,12 +46,13 @@ Other Skills:
 * Startup & AI product mindset
 
 💞️ Looking to Collaborate On
-* AI / ML projects (chatbots, classification models, analytics dashboards)
+* AI / ML projects
 * Deep learning experiments
 * NLP conversational datasets
 * Start-up ideas in the AI tech race
 * Open-source projects related to TensorFlow, NLP, or Data Engineering
+* Research Papers
 
 📫 How to Reach Me
-* Email: anveshkasarlaus@gmail.com
+* Email: anveshkasarla1@gmail.com
 * LinkedIn: https://linkedin.com/in/anvesh-kasarla

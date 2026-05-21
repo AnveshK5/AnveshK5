@@ -1,5 +1,5 @@
 👋 Hi, I’m Anvesh Kasarla
-🚀 AI & Data Analytics Enthusiast | Machine Learning Learner | Future AI Entrepreneur
+🚀 AI & Data Analytics Enthusiast | Machine Learning Learner | Software Engineer
 
 👀 Interests
 * Artificial Intelligence & Machine Learning
